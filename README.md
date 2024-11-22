@@ -33,9 +33,6 @@ Siga as etapas abaixo para rodar o projeto localmente:
 Navegue até o diretório do projeto:
 cd matheus-store
 Abra o arquivo index.html no seu navegador preferido para começar a interagir com a Matheus Store!
-🖼️ Screenshots
-
-Aqui está uma visualização da interface da Matheus Store:
 
 💡 O que Eu Aprendi
 
