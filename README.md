@@ -34,7 +34,7 @@ Navegue até o diretório do projeto:
 cd matheus-store
 Abra o arquivo index.html no seu navegador preferido para começar a interagir com a Matheus Store!
 
-💡 O que Eu Aprendi
+## 💡 O que Eu Aprendi
 
 Durante o desenvolvimento desse projeto, aprendi e apliquei diversas habilidades de front-end:
 
@@ -44,9 +44,11 @@ Responsividade: Embora simples, implementei uma interface que funciona bem em di
 
 
 
-🌐 Veja o projeto em funcionamento: [Link para o acesso do projet](https://vercel.com/mcamargos-projects-a79897c9/matheus-store)
+## 🌐 Veja o projeto em funcionamento: 
 
-🤝 Contribuições
+[Link para o acesso do projeto](https://vercel.com/mcamargos-projects-a79897c9/matheus-store)
+
+## 🤝 Contribuições
 
 Se você quiser contribuir com o projeto, siga os seguintes passos:
 
@@ -58,9 +60,6 @@ git commit -m 'Adicionei nova funcionalidade'
 Faça o push da sua branch:
 git push origin minha-feature
 Abra um pull request no GitHub.
-📝 Licença
-
-Este projeto está licenciado sob a MIT License. Para mais detalhes, consulte o arquivo LICENSE.
 
 Feito com 💙 por Matheus Camargos
 
