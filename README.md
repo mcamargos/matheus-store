@@ -1,6 +1,6 @@
 # 🕹️ Matheus Store
 
-Bem-vindo à **Matheus Store**! Este é um projeto simples, criado com **HTML**, **CSS** e **JavaScript**, que permite simular a **compra** e **venda** de três jogos populares: **Fortnite**, **Valorant** e **FC25**.
+Bem-vindo à **Matheus Store**! Este é um projeto simplese prático, criado com o intuito de treinar minhas habilidades utilizei **HTML**, **CSS** e **JavaScript**, que permite simular a **compra** e **venda** de três jogos populares: **Fortnite**, **Valorant** e **FC25**.
 
 ---
 
